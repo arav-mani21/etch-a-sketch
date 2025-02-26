@@ -1,0 +1,22 @@
+#button-container{
+    display: flex;
+    justify-content: center;
+    padding: 15px 0px;
+}
+
+#container{
+    display: flex;
+    flex: 0 0 auto;
+    flex-wrap: wrap;
+    width: 500px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid skyblue;
+}
+
+.grid-item{
+    box-sizing: border-box;
+    width: auto;
+    height: auto;
+}
